@@ -109,6 +109,16 @@ cli mode
 console mode
     poc-console
 ```
+#### test
+```
+$ python3 test.py
+```
+
+### How compatible pocsuite3
+in your python3 code
+```
+import frwk_51pwn as pocsuite3
+```
 
 ## How to Contribute
 
